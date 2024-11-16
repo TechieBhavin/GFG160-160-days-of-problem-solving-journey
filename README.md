@@ -27,7 +27,8 @@ Solutions: Implementations in Python, C++, or other languages as needed.
 Explanations: Detailed write-ups for better understanding.
 Resources: Links to GeeksforGeeks articles and editorial videos for each problem.
 
-🎖️ Certification
+<p>🎖️ Certification </p>
+
 By completing this challenge, participants receive an official certification from GeeksforGeeks, boosting their resume and showcasing their commitment to learning and problem-solving.
 
 🌟 Join the Journey!
