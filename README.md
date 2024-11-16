@@ -12,15 +12,15 @@ Goal: Sharpen problem-solving skills, enhance technical interview preparation, a
 📂 Repository Structure
 The repository is organized as follows:
 
-├── Day01/
-│   ├── problem.txt (readme.md)  # Problem description  
-│   ├── solution.java # Solution in java 
-│   ├── notes.md  # Insights and explanations  
-├── Day02/  
-│   ├── problem.txt (readme.md)  # Problem description  
-│   ├── solution.java # Solution in java 
-│   ├── notes.md  # Insights and explanations  
-├── ...  
+| ├── Day01/ |
+| │   ├── problem.txt (readme.md)  # Problem description |
+| │   ├── solution.java # Solution in java | 
+| │   ├── notes.md  # Insights and explanations |
+| ├── Day02/ |
+| │   ├── problem.txt (readme.md)  # Problem description |
+| │   ├── solution.java # Solution in java | 
+| │   ├── notes.md  # Insights and explanations |
+| ├── ...  
 
 🚀 Features
 Solutions: Implementations in Python, C++, or other languages as needed.
