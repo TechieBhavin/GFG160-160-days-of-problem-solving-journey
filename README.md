@@ -1,1 +1,1 @@
-# GFG---160-days-of-problem-solving-journey
+# GFG-160-days-of-problem-solving-journey
