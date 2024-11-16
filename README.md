@@ -22,7 +22,7 @@ The repository is organized as follows:
 | │   ├── notes.md  # Insights and explanations |
 | ├── ...  
 
-🚀 Features
+<p> 🚀 Features </P>
 Solutions: Implementations in Python, C++, or other languages as needed.
 Explanations: Detailed write-ups for better understanding.
 Resources: Links to GeeksforGeeks articles and editorial videos for each problem.
