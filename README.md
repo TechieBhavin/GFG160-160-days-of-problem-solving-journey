@@ -23,13 +23,13 @@ The repository is organized as follows:
 | ├── ...  
 
 <p> 🚀 Features </P>
-Solutions: Implementations in Python, C++, or other languages as needed.
-Explanations: Detailed write-ups for better understanding.
-Resources: Links to GeeksforGeeks articles and editorial videos for each problem.
+<P>Solutions: Implementations in Python, C++, or other languages as needed.</P>
+<P>Explanations: Detailed write-ups for better understanding.</P>
+<P>Resources: Links to GeeksforGeeks articles and editorial videos for each problem.</P>
 
 <p>🎖️ Certification </p>
-
-By completing this challenge, participants receive an official certification from GeeksforGeeks, boosting their resume and showcasing their commitment to learning and problem-solving.
+<p>By completing this challenge, participants receive an official certification from GeeksforGeeks, boosting their resume and showcasing their commitment to learning and problem-solving.
+</p>
 
 🌟 Join the Journey!
 Feel free to follow this repository to stay updated. Contributions and discussions are welcome—let's grow together!
