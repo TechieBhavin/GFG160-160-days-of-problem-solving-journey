@@ -25,7 +25,7 @@
 </pre><hr>
 
 <pre>
-<b>Company Tags</b><hr>
+<b>Company Tags</b>
 [SAP Labs)](https://www.geeksforgeeks.org/explore?page=1&company=SAP%20Labs&sortBy=submissions)
 [Rockstand)](https://www.geeksforgeeks.org/explore?page=1&company=Rockstand&sortBy=submissions)
 </pre>
