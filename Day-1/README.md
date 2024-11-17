@@ -25,7 +25,3 @@
 </pre><hr>
 
 <b>Company Tags</b>
-<div class="ui labels">
-  <a href="/explore/?company[]=SAP Labs" target="_blank" class="ui label problems_tag_label__A4Ism">SAP Labs</a>
-</div>
-<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='SAP Labs: SAP Labs' />
