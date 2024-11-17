@@ -25,6 +25,6 @@
 </pre><hr>
 
 <b>Company Tags</b><hr>
-[![](https://img.shields.io/badge/Visit-My%20Website-brightgreen)](https://www.geeksforgeeks.org/explore?page=1&company=SAP%20Labs&sortBy=submissions)
+[![SAP Labs]SAP Labs)](https://www.geeksforgeeks.org/explore?page=1&company=SAP%20Labs&sortBy=submissions)
 
 
