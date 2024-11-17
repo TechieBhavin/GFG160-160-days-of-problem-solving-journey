@@ -24,7 +24,7 @@
 <b>Explanation:</b> The largest element of the array is 10 and the second largest element does not exist.
 </pre><hr>
 
-<b>Company Tags</b>
+<b>Company Tags</b><hr>
 [![](https://img.shields.io/badge/Visit-My%20Website-brightgreen)](https://www.geeksforgeeks.org/explore?page=1&company=SAP%20Labs&sortBy=submissions)
-[![SAP Labs](https://path-to-your-button-image)](https://www.geeksforgeeks.org/explore?page=1&company=SAP%20Labs&sortBy=submissions)
+
 
