@@ -25,4 +25,4 @@
 </pre><hr>
 
 <b>Company Tags</b>
-<div class="ui divider g-m-0"></div>
+<a href="/explore/?company[]=SAP Labs" target="_blank" class="ui label problems_tag_label__A4Ism">SAP Labs</a>
