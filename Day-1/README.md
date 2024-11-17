@@ -23,3 +23,5 @@
 <b>Output:</b> -1
 <b>Explanation:</b> The largest element of the array is 10 and the second largest element does not exist.
 </pre>
+
+<b>Company Tags</b><hr>
