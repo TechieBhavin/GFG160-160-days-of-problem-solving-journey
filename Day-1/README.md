@@ -4,7 +4,7 @@
 <p>Given an array of positive integers arr[], return the second largest element from the array. If the second largest element doesn't exist then return -1.</p>
 <p>Note: The second largest element should not be equal to the largest element.</p>
 
-<h6>Examples:</h6>
+<b>Examples:</b>
 
 <pre>
 <b>Input:</b> arr[] = [12, 35, 1, 10, 34, 1]
