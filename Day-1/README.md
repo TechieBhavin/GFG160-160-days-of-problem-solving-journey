@@ -11,3 +11,15 @@
 <b>Output:</b> 34
 <b>Explanation:</b> The largest element of the array is 35 and the second largest element is 34.
 </pre>
+
+<pre>
+<b>Input:</b> arr[] = [10, 5, 10]
+<b>Output:</b> 5
+<b>Explanation:</b> The largest element of the array is 10 and the second largest element is 5.
+</pre>
+
+<pre>
+<b>Input:</b> arr[] = [10, 10, 10]
+<b>Output:</b> -1
+<b>Explanation:</b> The largest element of the array is 10 and the second largest element does not exist.
+</pre>
