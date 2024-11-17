@@ -24,7 +24,20 @@
 <b>Explanation:</b> The largest element of the array is 10 and the second largest element does not exist.
 </pre><hr>
 
+<pre>
 <b>Company Tags</b><hr>
-[![SAP Labs]SAP Labs)](https://www.geeksforgeeks.org/explore?page=1&company=SAP%20Labs&sortBy=submissions)
+[SAP Labs)](https://www.geeksforgeeks.org/explore?page=1&company=SAP%20Labs&sortBy=submissions)
+[Rockstand)](https://www.geeksforgeeks.org/explore?page=1&company=Rockstand&sortBy=submissions)
+</pre>
+<hr>
+
+<pre>
+<b>Topic Tags</b>
+Arrays
+Searching
+Data Structures
+Algorithms
+</pre>
+
 
 
