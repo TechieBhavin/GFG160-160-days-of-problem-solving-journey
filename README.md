@@ -12,7 +12,7 @@ Goal: Sharpen problem-solving skills, enhance technical interview preparation, a
 </p>
 
 <h5>🚀 Features</h5>
-<P>Solutions: Implementations in Python, C++, or other languages as needed.</P>
+<P>Solutions: Implementations in java [Python, C++, or other languages if needed].</P>
 <P>Explanations: Detailed write-ups for better understanding.</P>
 <P>Resources: Links to GeeksforGeeks articles and editorial videos for each problem.</P>
 
