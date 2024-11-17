@@ -22,6 +22,7 @@
 <b>Input:</b> arr[] = [10, 10, 10]
 <b>Output:</b> -1
 <b>Explanation:</b> The largest element of the array is 10 and the second largest element does not exist.
-</pre>
+</pre><hr>
 
-<b>Company Tags</b><hr>
+<b>Company Tags</b>
+<div class="ui divider g-m-0"></div>
