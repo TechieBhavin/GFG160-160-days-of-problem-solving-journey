@@ -25,4 +25,6 @@
 </pre><hr>
 
 <b>Company Tags</b>
-<a href="/explore/?company[]=SAP Labs" target="_blank" class="ui label problems_tag_label__A4Ism">SAP Labs</a>
+<div class="ui labels">
+  <a href="/explore/?company[]=SAP Labs" target="_blank" class="ui label problems_tag_label__A4Ism">SAP Labs</a>
+</div>
