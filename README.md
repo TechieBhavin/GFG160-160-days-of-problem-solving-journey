@@ -27,3 +27,11 @@ Goal: Sharpen problem-solving skills, enhance technical interview preparation, a
 <p>GeeksforGeeks' GfG160 Challenge is a structured and comprehensive program designed to prepare students and professionals for technical interviews. Participants solve one problem daily, covering a wide range of topics and difficulty levels, accompanied by free self-paced courses and bonus problems.</p>
 
 <h3>Happy coding! 🚀</h3>
+| **select** |
+| ------- |
+| [1757-Recyclable and low fat products](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1757-Recyclable-and-low-fat-products) |
+| [584-Find customer referee](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/584-Find-customer-referee) |
+| [595-Big countries](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/595-Big-countries) |
+| [1148-Article views-i](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1148-Article-views-i) |
+| [1683-Invalid tweets](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1683-Invalid-tweets) |
+|     |
