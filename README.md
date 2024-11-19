@@ -29,7 +29,7 @@ Goal: Sharpen problem-solving skills, enhance technical interview preparation, a
 <h3>Happy coding! 🚀</h3>
 
 | **Day** | **Problem Statement**  | **Difficulty Level** | **Problem Link** |
-| ------- | ------------------------ |--------|
+| ------- | ------------------------ |--------|---------|
 | Day-1 | [Second largest element](https://github.com/TechieBhavin/GFG160-160-days-of-problem-solving-journey/tree/main/Day-1) | Easy | [link](https://www.geeksforgeeks.org/problems/second-largest3735/1)
 | Day-2 | [Move all zeros to End](https://github.com/TechieBhavin/GFG160-160-days-of-problem-solving-journey/tree/main/Day-2) | Easy
 | Day-3 | [Reverse an array](https://github.com/TechieBhavin/GFG160-160-days-of-problem-solving-journey/tree/main/Day-3) | Easy
