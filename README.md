@@ -28,11 +28,11 @@ Goal: Sharpen problem-solving skills, enhance technical interview preparation, a
 
 <h3>Happy coding! 🚀</h3>
 
-| **select** | **Problem statement**  |
+| **Day** | **Problem statement**  |
 | ------- | ------------------------ |
-| [1757-Recyclable and low fat products](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1757-Recyclable-and-low-fat-products) |
-| [584-Find customer referee](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/584-Find-customer-referee) |
-| [595-Big countries](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/595-Big-countries) |
-| [1148-Article views-i](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1148-Article-views-i) |
-| [1683-Invalid tweets](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1683-Invalid-tweets) |
+| [Day-1](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1757-Recyclable-and-low-fat-products) |
+| [Day-2](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/584-Find-customer-referee) |
+| [Day-3](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/595-Big-countries) |
+| [day-4](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1148-Article-views-i) |
+| [Day-5](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1683-Invalid-tweets) |
 |     |
