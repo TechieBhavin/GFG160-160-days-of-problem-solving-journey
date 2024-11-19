@@ -28,11 +28,11 @@ Goal: Sharpen problem-solving skills, enhance technical interview preparation, a
 
 <h3>Happy coding! 🚀</h3>
 
-| **Day** | **Problem statement**  |
+| **Day** | **Problem Statement**  |
 | ------- | ------------------------ |
-| [Day-1] | [Second largest](https://github.com/TechieBhavin/GFG160-160-days-of-problem-solving-journey/tree/main/Day-1)
-| [Day-2](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/584-Find-customer-referee) |
-| [Day-3](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/595-Big-countries) |
-| [day-4](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1148-Article-views-i) |
-| [Day-5](https://github.com/TechieBhavin/Leetcode-SQL-50/tree/main/1683-Invalid-tweets) |
+| Day-1 | [Second largest element](https://github.com/TechieBhavin/GFG160-160-days-of-problem-solving-journey/tree/main/Day-1)
+| Day-2 | [Move all zeros to End](https://github.com/TechieBhavin/GFG160-160-days-of-problem-solving-journey/tree/main/Day-2)
+| Day-3 | [Reverse an array](https://github.com/TechieBhavin/GFG160-160-days-of-problem-solving-journey/tree/main/Day-3)
+| day-4 | [Rotate an array](https://github.com/TechieBhavin/GFG160-160-days-of-problem-solving-journey/tree/main/Day-4)
+| Day-5 | [next permutation](https://github.com/TechieBhavin/GFG160-160-days-of-problem-solving-journey/tree/main/Day-5)
 |     |
