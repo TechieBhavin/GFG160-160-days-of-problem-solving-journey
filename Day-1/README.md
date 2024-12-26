@@ -24,12 +24,6 @@
 <b>Explanation:</b> The largest element of the array is 10 and the second largest element does not exist.
 </pre><hr>
 
-<b>Constraints:</b>
-<pre>
-<b>2 ≤ arr.size() ≤ 105</b>
-<b>1 ≤ arr[i] ≤ 105</p></b>
-</pre><hr>
-
 <b>Expected Complexities:</b>
 <pre>
 <b>Time Complexity: O(n)</b>
