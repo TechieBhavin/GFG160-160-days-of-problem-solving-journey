@@ -24,7 +24,6 @@
 <b>Explanation:</b> The largest element of the array is 10 and the second largest element does not exist.
 </pre><hr>
 
-
-
-
-
+<b>Constraints:</b>
+2 ≤ arr.size() ≤ 105
+1 ≤ arr[i] ≤ 105
