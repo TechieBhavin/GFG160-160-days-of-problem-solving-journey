@@ -25,5 +25,5 @@
 </pre><hr>
 
 <b>Constraints:</b>
-2 ≤ arr.size() ≤ 105
-1 ≤ arr[i] ≤ 105
+<p>2 ≤ arr.size() ≤ 105</p>
+<p>1 ≤ arr[i] ≤ 105</p>
