@@ -26,4 +26,13 @@
 
 <b>Constraints:</b>
 <p>2 ≤ arr.size() ≤ 105</p>
-<p>1 ≤ arr[i] ≤ 105</p>
+<p>1 ≤ arr[i] ≤ 105</p><hr>
+
+<b>Expected Complexities:</b>
+
+<pre>
+<b>Time Complexity: O(n)</b>
+<b>Auxiliary Space: O(1)</b>
+</pre>
+
+
