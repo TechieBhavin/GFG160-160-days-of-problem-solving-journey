@@ -1,45 +1,43 @@
-/* node of linked list:
-
-class Node{
-    int data;
-    Node next;
-    Node(int d){
-        data=d;
-        next=null;
+/*
+  Node is defined as
+    class Node
+    {
+        int data;
+        Node next;
+        Node(int d) {data = d; next = null; }
     }
-}
-
 */
 
 class Solution {
-    public Node rotate(Node head, int k) {
-        // add code here
-        // add code here
-        if(head==null || head.next==null) return head;
-        
-        Node t = head;
-        int l=1;
-        while(t.next!=null){
-            l++;
-            t=t.next;
-        }
-        
-        k%=l;
-        if(k==0) return head;
-        
-        l=1;
-        Node cur = head;
-        
-        while(cur.next!=null){
-            if(l==k) break;
-            l++;
-            cur=cur.next;
-        }
-        
-        t.next=head;
-        head=cur.next;
-        cur.next=null;
-        
-        return head;
+    Node sortedMerge(Node head1, Node head2) {
+        // code here
+        Node temp1=head1;
+       Node temp2=head2;
+       Node head=new Node(100);
+       Node temp=head;
+       
+       while(temp1!=null && temp2!=null)
+       {
+           if(temp1.data<temp2.data){
+               Node a=new Node(temp1.data);
+               temp.next=a;
+               temp=a;
+               temp1=temp1.next;
+           }
+           else{
+               Node a=new Node(temp2.data);
+               temp.next=a;
+               temp=a;
+               temp2=temp2.next;
+           }
+       }
+       
+       if(temp1==null){
+           temp.next=temp2;
+       }
+       else{
+           temp.next=temp1;
+       }
+       return head.next;
     }
 }
